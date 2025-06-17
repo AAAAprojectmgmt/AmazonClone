@@ -3,6 +3,6 @@ const addToCartButtons = document.querySelectorAll(".product button");
 
 addToCartButtons.forEach(button => {
   button.addEventListener("click", () => {
-    console.log("Item added to the cart!");
+    alert("Item added to the cart!");
   });
 });

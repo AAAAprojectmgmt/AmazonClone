@@ -104,6 +104,7 @@
   
   .product button:hover {
     background-color: #e2a12d;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   
   /* Footer Section */
